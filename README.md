@@ -104,7 +104,7 @@ Factorial of 6 is: 720
 
 ---
 
-## Task 5: Calculate Factorial Using a Function
+## Task 6: Using the Math Module for Calculations
 
 ## File: `task6.py`
 
