@@ -8,6 +8,8 @@ This repository contains two beginner-level Python scripts:
 - **Task 4**: Sum of Integers from 1 to 50 Using a Loop
 - **Task 5**: Calculate Factorial Using a Function
 - **Task 6**: Using the Math Module for Calculations
+- **Task 7**: Read a File and Handle Errors
+- **Task 8**: Write and Append Data to a File
 
 ---
 
@@ -122,3 +124,42 @@ Enter a number:49
 Square root: 7.0
 Logarithm: 3.8918202981106265
 Sine: -0.9537526527594719
+
+
+---
+
+## Task 7: Read a File and Handle Errors 
+
+## File: `task7.py`
+
+### Functionality:
+This script:
+1.   Opens and reads a text file named sample.txt.
+2.   Prints its content line by line.
+3.   Handles errors gracefully if the file does not exist.
+
+### Sample Output:
+Line1: Hi, I'm Shyam.
+Line2: Come let's have some coffee.
+
+
+---
+
+## Task 8: Write and Append Data to a File
+
+## File: `task8.py`
+
+### Functionality:
+This script:
+1.   Takes user input and writes it to a file named output.txt.
+2.   Appends additional data to the same file.
+3.   Reads and displays the final content of the file.
+
+### Sample Output:
+Enter text to write a file:Hello all,
+Data successfully written to output.txt
+Enter additional text to append:How are you?
+Data successfully appended
+Final content of output.txt:
+Hello all,
+How are you?
