@@ -30,14 +30,14 @@ This script:
 3. Handles invalid numeric input and division by zero.
 
 ### Sample Output:
+```
 Enter the first number:50
 Enter the second number:20
 Addition:  70
 Subtraction:  30
 Multiplication:  1000
 Division:  2.5
-
-
+```
 ---
 
 ## Task 2: Personalized Greeting
@@ -51,11 +51,11 @@ This script:
 3. Prints a personalized greeting using the full name.
 
 ### Sample Output:
+```
 Enter your first name:John
 Enter your second name:Doe
 Hello, John Doe! Welcome to the Python program.
-
-
+```
 ---
 
 ## Task 3: Check if a Number is Even or Odd
@@ -69,10 +69,10 @@ This script:
 3. Displays the result accordingly.
 
 ### Sample Output:
+```
 Enter a number:5
 5 is an odd number.
-
-
+```
 ---
 
 ## Task 4: Sum of Integers from 1 to 50 Using a Loop
@@ -86,9 +86,9 @@ This script:
 3. Displays the final sum.
 
 ### Sample Output:
+```
 The sum of numbers from 1 to 50 is: 1275
-
-
+```
 ---
 
 ## Task 5: Calculate Factorial Using a Function
@@ -102,10 +102,10 @@ This script:
 3.   Calls the function with a sample number and prints the output.
 
 ### Sample Output:
+```
 Enter a number:6
 Factorial of 6 is: 720
-
-
+```
 ---
 
 ## Task 6: Using the Math Module for Calculations
@@ -122,12 +122,12 @@ o   Sine of the number (in radians)
 3.   Displays the calculated results.
 
 ### Sample Output:
+```
 Enter a number:49
 Square root: 7.0
 Logarithm: 3.8918202981106265
 Sine: -0.9537526527594719
-
-
+```
 ---
 
 ## Task 7: Read a File and Handle Errors 
@@ -141,10 +141,10 @@ This script:
 3.   Handles errors gracefully if the file does not exist.
 
 ### Sample Output:
+```
 Line1: Hi, I'm Shyam.
 Line2: Come let's have some coffee.
-
-
+```
 ---
 
 ## Task 8: Write and Append Data to a File
@@ -158,6 +158,7 @@ This script:
 3.   Reads and displays the final content of the file.
 
 ### Sample Output:
+```
 Enter text to write a file:Hello all,
 Data successfully written to output.txt
 Enter additional text to append:How are you?
@@ -165,8 +166,7 @@ Data successfully appended
 Final content of output.txt:
 Hello all,
 How are you?
-
-
+```
 ---
 
 ## Task 9: Create a Dictionary of Student Marks
@@ -181,10 +181,10 @@ This script:
 4.   If the student’s name is not found, display an appropriate message.
 
 ### Sample Output:
+```
 Enter the student's name:John
 John marks: 88
-
-
+```
 ---
 
 ## Task 10: Demonstrate List Slicing 
@@ -199,6 +199,8 @@ This script:
 4.   Prints both the extracted list and the reversed list
 
 ### Sample Output:
+```
 Original list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 Extracted first five elements: [1, 2, 3, 4, 5]
 Reversed extracted elements: [5, 4, 3, 2, 1]
+```
