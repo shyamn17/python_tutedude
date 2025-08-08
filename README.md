@@ -10,6 +10,8 @@ This repository contains two beginner-level Python scripts:
 - **Task 6**: Using the Math Module for Calculations
 - **Task 7**: Read a File and Handle Errors
 - **Task 8**: Write and Append Data to a File
+- **Task 9**: Create a Dictionary of Student Marks
+- **Task 10**: Demonstrate List Slicing 
 
 ---
 
@@ -163,3 +165,40 @@ Data successfully appended
 Final content of output.txt:
 Hello all,
 How are you?
+
+
+---
+
+## Task 9: Create a Dictionary of Student Marks
+
+## File: `task9.py`
+
+### Functionality:
+This script:
+1.   Creates a dictionary where student names are keys and their marks are values.
+2.   Asks the user to input a student's name.
+3.   Retrieves and displays the corresponding marks.
+4.   If the student’s name is not found, display an appropriate message.
+
+### Sample Output:
+Enter the student's name:John
+John marks: 88
+
+
+---
+
+## Task 10: Demonstrate List Slicing 
+
+## File: `task10.py`
+
+### Functionality:
+This script:
+1.   Creates a list of numbers from 1 to 10.
+2.   Extracts the first five elements from the list.
+3.   Reverses these extracted elements.
+4.   Prints both the extracted list and the reversed list
+
+### Sample Output:
+Original list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Extracted first five elements: [1, 2, 3, 4, 5]
+Reversed extracted elements: [5, 4, 3, 2, 1]
